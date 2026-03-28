@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Alessandro!
 
-🎓 I'm a 24-year-old Master's student in *Computer Engineering* at the Politecnico di Torino (Italy), specializing in **AI and Data Analytics**. My academic journey is fueled by a passion for **Web Development**, **Machine Learning**, and **Deep Learning**. Here on GitHub, I love sharing projects and contributing to the open-source community.
+🎓 I'm a 26-year-old Master's student in *Computer Engineering* at the Politecnico di Torino (Italy), specializing in **AI and Data Analytics**. My academic journey is fueled by a passion for **Web Development**, **Machine Learning**, and **Deep Learning**. Here on GitHub, I love sharing projects and contributing to the open-source community.
 
 ## 🔧 Skills & Tools
 - **Languages**: C, C++, Java, JavaScript (client & Node), Python, and recently picking up Rust 🚀
